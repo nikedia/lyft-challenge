@@ -1,0 +1,58 @@
+/* Botones, hover: #FF00BF
+Fondo de footer: #333447
+Título del formulario: #352384
+Texto del formulario: #728099
+Gradiente morado: linear-gradient(#76278F, #2B1E66); */
+
+/* <!-- General Aspects --> */
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* <!-- Reusable Selectors, Class, etc --> */
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+
+
+
+
+/* <!-- Navigation Section --> */
+
+.bg-introduction{
+    height: 200vh;
+    background: url(../assets/images/hero.gif) no-repeat;
+    
+    z-index: -1; 
+}   
+
+
+
+/* <!-- Bg. Introduction Section --> */
+
+
+/* <!-- Driven Section --> */
+
+
+/* <!-- Riding West Section --> */
+
+
+/* <!-- Round Up & Donate Section --> */
+
+
+/* <!-- Products & News Section --> */
+
+
+
+/* <!-- Footer Section --> */
+
